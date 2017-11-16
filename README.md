@@ -1,0 +1,1 @@
+El fichero launch.bat espera como parámetro la IP de la tarjeta de red del equipo que tiene instalado el X11 server.

@@ -1,0 +1,1 @@
+docker run -ti --rm -v "//c/visv/docker/visualstudiocode/repo:/home/develop/repo" -e DISPLAY=%1:0.0 visualstudiocode

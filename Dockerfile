@@ -1,4 +1,4 @@
-FROM visv/ubuntux11:14.04
+FROM ubuntu:14.04
 
 RUN sh -c 'echo "deb http://ppa.launchpad.net/git-core/candidate/ubuntu trusty main" > /etc/apt/sources.list.d/git.list'
 RUN sh -c 'echo "deb-src http://ppa.launchpad.net/git-core/candidate/ubuntu trusty main" >> /etc/apt/sources.list.d/git.list'
